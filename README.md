@@ -8,6 +8,7 @@ I have used a dataset called downsampled. downsampled dataset is a large-scale f
 
 The labels of each face image is embedded in the file name, formated like [age][gender][date&time].jpg
 
---> [age] is an integer from 0 to 116, indicating the age
+--> [age] is an integer from 0 to 28, indicating the age
 
-https://miro.medium.com/v2/resize:fit:1024/0*mlkFwDiAsSmV2o8i.jpg
+![image](https://github.com/user-attachments/assets/a8a20381-2144-46a5-804f-ae5618029eb0)
+
