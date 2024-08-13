@@ -10,4 +10,4 @@ The labels of each face image is embedded in the file name, formated like [age][
 
 --> [age] is an integer from 0 to 116, indicating the age
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40pyashpq56%2Fgender-prediction-and-age-detection-in-images-using-opencv-7303d95effc8&psig=AOvVaw2GKT5qcU_u7WjNWDAnQgas&ust=1723624380076000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjw1q7H8YcDFQAAAAAdAAAAABAE
